@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Dantess221/Dantess221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikita, a software engineer mainly interested in programming desktop soft for gamers🎮🕹️.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary development stack:
+&nbsp;<img alt=".NET" valign="middle" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+&nbsp;<img alt="C#" valign="middle" src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logoColor=white">
+&nbsp;<img alt="ASP.NET" valign="middle" src="https://img.shields.io/badge/ASP.NET-5c2d91?style=for-the-badge&logoColor=white">
+
+Secondary:
+&nbsp;<img alt="C++" valign="middle" src="https://img.shields.io/badge/C++-%230095D5.svg?style=for-the-badge&logoColor=white">
+&nbsp;<img alt="GoLang" valign="middle" src="https://img.shields.io/badge/GoLang-%2322bbf7.svg?style=for-the-badge&logo=go&logoColor=white">
+
