@@ -11,5 +11,5 @@ My primary development stack:
 
 Secondary:
 &nbsp;<img alt="C++" valign="middle" src="https://img.shields.io/badge/C++-%230095D5.svg?style=for-the-badge&logoColor=white">
-&nbsp;<img alt="GoLang" valign="middle" src="https://img.shields.io/badge/GoLang-%2322bbf7.svg?style=for-the-badge&logo=go&logoColor=white">
+&nbsp;<img alt="GoLang" valign="middle" src="https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white">
 
